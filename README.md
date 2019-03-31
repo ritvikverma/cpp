@@ -1,2 +1,2 @@
-# cpp
-cpp
+# C/C++
+cpp and c independent projects
