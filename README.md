@@ -1,2 +1,2 @@
 # C/C++
-cpp and c independent projects
+Data structures and algorithms implemented in C
